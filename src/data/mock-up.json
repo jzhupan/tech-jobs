@@ -5,7 +5,16 @@
       "fortune_500": false,
       "fortune_1000": true,
       "country_based": "USA",
-      "cities_hiring": ["San Francisco", "New York", "Austin"],
+      "hiring_locations": [
+        {
+          "country": "USA",
+          "cities": ["San Francisco", "New York", "Austin"]
+        },
+        {
+          "country": "Canada",
+          "cities": ["Toronto", "Vancouver", "Montreal"]
+        }
+      ],
       "remote_option": true,
       "ats": "Greenhouse",
       "talent_pool": true,
@@ -24,7 +33,16 @@
       "fortune_500": false,
       "fortune_1000": false,
       "country_based": "Germany",
-      "cities_hiring": ["Berlin", "Munich", "Hamburg"],
+      "hiring_locations": [
+        {
+          "country": "Germany",
+          "cities": ["Berlin", "Munich", "Hamburg"]
+        },
+        {
+          "country": "Netherlands",
+          "cities": ["Amsterdam", "Rotterdam", "Utrecht"]
+        }
+      ],
       "remote_option": false,
       "ats": "Lever",
       "talent_pool": true,
@@ -43,7 +61,16 @@
       "fortune_500": false,
       "fortune_1000": false,
       "country_based": "India",
-      "cities_hiring": ["Bangalore", "Mumbai", "New Delhi"],
+      "hiring_locations": [
+        {
+          "country": "India",
+          "cities": ["Bangalore", "Mumbai", "New Delhi"]
+        },
+        {
+          "country": "Singapore",
+          "cities": ["Singapore"]
+        }
+      ],
       "remote_option": true,
       "ats": "Workday",
       "talent_pool": false,
@@ -62,7 +89,16 @@
       "fortune_500": true,
       "fortune_1000": true,
       "country_based": "UK",
-      "cities_hiring": ["London", "Manchester", "Edinburgh"],
+      "hiring_locations": [
+        {
+          "country": "UK",
+          "cities": ["London", "Manchester", "Edinburgh"]
+        },
+        {
+          "country": "France",
+          "cities": ["Paris", "Lyon", "Marseille"]
+        }
+      ],
       "remote_option": false,
       "ats": "Taleo",
       "talent_pool": true,
@@ -81,7 +117,16 @@
       "fortune_500": false,
       "fortune_1000": false,
       "country_based": "Australia",
-      "cities_hiring": ["Sydney", "Melbourne", "Brisbane"],
+      "hiring_locations": [
+        {
+          "country": "Australia",
+          "cities": ["Sydney", "Melbourne", "Brisbane"]
+        },
+        {
+          "country": "New Zealand",
+          "cities": ["Auckland", "Wellington", "Christchurch"]
+        }
+      ],
       "remote_option": true,
       "ats": "SmartRecruiters",
       "talent_pool": false,
