@@ -4,7 +4,7 @@
     "industry": "Technology",
     "fortune_500": false,
     "fortune_1000": true,
-    "country_based": "USA",
+    "country_based": "North America",
     "hiring_locations": [
       {
         "country": "USA",
@@ -62,7 +62,7 @@
     "industry": "Education Technology",
     "fortune_500": false,
     "fortune_1000": false,
-    "country_based": "India",
+    "country_based": "Asia",
     "hiring_locations": [
       {
         "country": "India",
