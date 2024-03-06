@@ -2,7 +2,11 @@ import MUIDataTable from "mui-datatables";
 import jsondata from "../../data/mock-up.json";
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCheck, faXmark } from "@fortawesome/free-solid-svg-icons";
+import {
+  faCheck,
+  faXmark,
+  faArrowUpRightFromSquare,
+} from "@fortawesome/free-solid-svg-icons";
 
 const columns = [
   {
@@ -26,7 +30,7 @@ const columns = [
     label: "Fortune 500",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return value ? (
           <FontAwesomeIcon icon={faCheck} style={{ color: "#00ff00" }} />
@@ -41,7 +45,7 @@ const columns = [
     label: "Fortune 1000",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return value ? (
           <FontAwesomeIcon icon={faCheck} style={{ color: "#00ff00" }} />
@@ -56,7 +60,7 @@ const columns = [
     label: "Country Based",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
     },
   },
   {
@@ -64,7 +68,7 @@ const columns = [
     label: "Hiring Locations",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         // Map each hiring location to a fragment containing the country, cities, and a line break
         return value.map((location, index) => (
@@ -83,7 +87,7 @@ const columns = [
     label: "Remote Option",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return value ? (
           <FontAwesomeIcon icon={faCheck} style={{ color: "#00ff00" }} />
@@ -98,7 +102,7 @@ const columns = [
     label: "ATS",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
     },
   },
   {
@@ -106,7 +110,7 @@ const columns = [
     label: "Talent Pool",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return value ? (
           <FontAwesomeIcon icon={faCheck} style={{ color: "#00ff00" }} />
@@ -121,11 +125,11 @@ const columns = [
     label: "Careers URL",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -136,7 +140,7 @@ const columns = [
     label: "Female CEO",
     options: {
       filter: true,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return value ? (
           <FontAwesomeIcon icon={faCheck} style={{ color: "#00ff00" }} />
@@ -159,11 +163,11 @@ const columns = [
     label: "LinkedIn",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -174,11 +178,11 @@ const columns = [
     label: "Twitter",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -189,11 +193,11 @@ const columns = [
     label: "Facebook",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -204,11 +208,11 @@ const columns = [
     label: "YouTube",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -219,11 +223,11 @@ const columns = [
     label: "Discord",
     options: {
       filter: false,
-      sort: false,
+      sort: true,
       customBodyRender: (value) => {
         return (
           <a href={value} target="_blank" rel="noopener noreferrer">
-            {value}
+            <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
         );
       },
@@ -248,7 +252,7 @@ const EnhancedTable = () => {
   return (
     <>
       <MUIDataTable
-        title={"Employee List"}
+        title={"Companies"}
         data={jsondata}
         columns={columns}
         options={options}
