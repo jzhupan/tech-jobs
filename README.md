@@ -1,10 +1,27 @@
-# React + Vite
+# companies-to-apply.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The purpose of this page/repository is to allow anyone to quickly find companies and their job postings.
 
-Currently, two official plugins are available:
+# Styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Currently all the code is formatted using Prettier (default settings). The usage of Prettier is still being discussed, but as of now it is part of the development cycle. Using it will probably save us from merge conflicts.
 
-installed github pages
+
+
+## Features
+
+- Coming soon.
+## Roadmap
+
+- Coming Soon.
+
+
+## Documentation
+
+Coming soon.
+
+
+## Authors
+
+- [@jcari-dev](https://www.github.com/jcari-dev)
+- [@jzhupan](https://www.github.com/jzhupan)
