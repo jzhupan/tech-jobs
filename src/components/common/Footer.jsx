@@ -1,5 +1,3 @@
-import reactIcon from "../../assets/react.svg";
-import viteIcon from "../../assets/vite.svg";
 import { Typography, Link, Box } from "@mui/material";
 
 const Footer = () => {
