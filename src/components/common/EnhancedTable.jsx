@@ -1,5 +1,5 @@
 import MUIDataTable from "mui-datatables";
-import jsondata from "../../data/mock-up.json";
+import jsondata from "../../data/companies.json";
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
