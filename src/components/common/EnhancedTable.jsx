@@ -127,10 +127,16 @@ const columns = [
       filter: false,
       sort: true,
       customBodyRender: (value) => {
-        return (
+        return value ? (
           <a href={value} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
+        ) : (
+          <FontAwesomeIcon
+            icon={faArrowUpRightFromSquare}
+            style={{ color: "grey" }}
+            aria-disabled="true"
+          />
         );
       },
     },
