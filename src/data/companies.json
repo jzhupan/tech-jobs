@@ -1,4 +1,5 @@
-[{
+[
+  {
     "company_name": "cgi",
     "industry": "",
     "fortune_500": false,
@@ -23,7 +24,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "archer daniels midland",
     "industry": "",
     "fortune_500": false,
@@ -48,7 +49,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vanguard",
     "industry": "",
     "fortune_500": false,
@@ -73,7 +74,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "visa",
     "industry": "",
     "fortune_500": false,
@@ -98,7 +99,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "waymo",
     "industry": "",
     "fortune_500": false,
@@ -123,7 +124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lime",
     "industry": "",
     "fortune_500": false,
@@ -148,7 +149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bolt (eu)",
     "industry": "",
     "fortune_500": false,
@@ -173,7 +174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "liveperson",
     "industry": "",
     "fortune_500": false,
@@ -198,7 +199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tsmc",
     "industry": "",
     "fortune_500": false,
@@ -223,7 +224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bmo financial group",
     "industry": "",
     "fortune_500": false,
@@ -248,7 +249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pearson",
     "industry": "",
     "fortune_500": false,
@@ -273,7 +274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cvent",
     "industry": "",
     "fortune_500": false,
@@ -298,7 +299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "infosys",
     "industry": "",
     "fortune_500": false,
@@ -323,7 +324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pointclickcare",
     "industry": "",
     "fortune_500": false,
@@ -348,7 +349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mastercard",
     "industry": "",
     "fortune_500": false,
@@ -373,7 +374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "general atomics",
     "industry": "",
     "fortune_500": false,
@@ -398,7 +399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "global payments",
     "industry": "",
     "fortune_500": false,
@@ -423,7 +424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kpmg",
     "industry": "",
     "fortune_500": false,
@@ -448,7 +449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "criteo",
     "industry": "",
     "fortune_500": false,
@@ -473,7 +474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nationwide",
     "industry": "",
     "fortune_500": false,
@@ -498,7 +499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zeta",
     "industry": "",
     "fortune_500": false,
@@ -523,7 +524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tyler technologies",
     "industry": "",
     "fortune_500": false,
@@ -548,7 +549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "just eat",
     "industry": "",
     "fortune_500": false,
@@ -573,7 +574,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zoox",
     "industry": "",
     "fortune_500": false,
@@ -598,7 +599,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "red ventures",
     "industry": "",
     "fortune_500": false,
@@ -623,7 +624,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "buffer",
     "industry": "",
     "fortune_500": false,
@@ -648,7 +649,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "appier",
     "industry": "",
     "fortune_500": false,
@@ -673,7 +674,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "docusign",
     "industry": "",
     "fortune_500": false,
@@ -698,7 +699,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cerner",
     "industry": "",
     "fortune_500": false,
@@ -723,7 +724,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bolt",
     "industry": "",
     "fortune_500": false,
@@ -748,7 +749,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zoho",
     "industry": "",
     "fortune_500": false,
@@ -773,7 +774,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "capgemini",
     "industry": "",
     "fortune_500": false,
@@ -798,7 +799,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "monzo",
     "industry": "",
     "fortune_500": false,
@@ -823,7 +824,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "toyota usa",
     "industry": "",
     "fortune_500": false,
@@ -848,7 +849,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "yandex",
     "industry": "",
     "fortune_500": false,
@@ -873,7 +874,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "equipmentshare",
     "industry": "",
     "fortune_500": false,
@@ -898,7 +899,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "continental",
     "industry": "",
     "fortune_500": false,
@@ -923,7 +924,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tesco",
     "industry": "",
     "fortune_500": false,
@@ -948,7 +949,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cognizant",
     "industry": "",
     "fortune_500": false,
@@ -973,7 +974,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "elsevier",
     "industry": "",
     "fortune_500": false,
@@ -998,7 +999,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wework",
     "industry": "",
     "fortune_500": false,
@@ -1023,7 +1024,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "freddie mac",
     "industry": "",
     "fortune_500": false,
@@ -1048,7 +1049,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "td bank",
     "industry": "",
     "fortune_500": false,
@@ -1073,7 +1074,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "equinix",
     "industry": "",
     "fortune_500": false,
@@ -1098,7 +1099,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "appfolio",
     "industry": "",
     "fortune_500": false,
@@ -1123,7 +1124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "virtusa",
     "industry": "",
     "fortune_500": false,
@@ -1148,7 +1149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "procore technologies",
     "industry": "",
     "fortune_500": false,
@@ -1173,7 +1174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "veeva systems",
     "industry": "",
     "fortune_500": false,
@@ -1198,7 +1199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "check24",
     "industry": "",
     "fortune_500": false,
@@ -1223,7 +1224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cigna",
     "industry": "",
     "fortune_500": false,
@@ -1248,7 +1249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "seagate",
     "industry": "",
     "fortune_500": false,
@@ -1273,7 +1274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "spotify",
     "industry": "",
     "fortune_500": false,
@@ -1298,7 +1299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "appian",
     "industry": "",
     "fortune_500": false,
@@ -1323,7 +1324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "motorola solutions",
     "industry": "",
     "fortune_500": false,
@@ -1348,7 +1349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "agoda",
     "industry": "",
     "fortune_500": false,
@@ -1373,7 +1374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "redfin",
     "industry": "",
     "fortune_500": false,
@@ -1398,7 +1399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cisco",
     "industry": "",
     "fortune_500": false,
@@ -1423,7 +1424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "jacobs",
     "industry": "",
     "fortune_500": false,
@@ -1448,7 +1449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "illumina",
     "industry": "",
     "fortune_500": false,
@@ -1473,7 +1474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "workiva",
     "industry": "",
     "fortune_500": false,
@@ -1498,7 +1499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nuance communications",
     "industry": "",
     "fortune_500": false,
@@ -1523,7 +1524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "smartthings",
     "industry": "",
     "fortune_500": false,
@@ -1548,7 +1549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lattice",
     "industry": "",
     "fortune_500": false,
@@ -1573,7 +1574,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "western digital",
     "industry": "",
     "fortune_500": false,
@@ -1598,7 +1599,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sambanova systems",
     "industry": "",
     "fortune_500": false,
@@ -1623,7 +1624,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "commonwealth bank of australia",
     "industry": "",
     "fortune_500": false,
@@ -1648,7 +1649,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "google",
     "industry": "",
     "fortune_500": false,
@@ -1673,7 +1674,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thumbtack",
     "industry": "",
     "fortune_500": false,
@@ -1698,7 +1699,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "the d. e. shaw group",
     "industry": "",
     "fortune_500": false,
@@ -1723,7 +1724,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "world wide technology",
     "industry": "",
     "fortune_500": false,
@@ -1748,7 +1749,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "godaddy",
     "industry": "",
     "fortune_500": false,
@@ -1773,7 +1774,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "razorpay",
     "industry": "",
     "fortune_500": false,
@@ -1798,7 +1799,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "crowdstrike",
     "industry": "",
     "fortune_500": false,
@@ -1823,7 +1824,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nuro",
     "industry": "",
     "fortune_500": false,
@@ -1848,7 +1849,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "goldman sachs",
     "industry": "",
     "fortune_500": false,
@@ -1873,7 +1874,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "roku",
     "industry": "",
     "fortune_500": false,
@@ -1898,7 +1899,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "snap",
     "industry": "",
     "fortune_500": false,
@@ -1923,7 +1924,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "magic leap",
     "industry": "",
     "fortune_500": false,
@@ -1948,7 +1949,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gitlab",
     "industry": "",
     "fortune_500": false,
@@ -1973,7 +1974,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ciklum",
     "industry": "",
     "fortune_500": false,
@@ -1998,7 +1999,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ticketmaster",
     "industry": "",
     "fortune_500": false,
@@ -2023,7 +2024,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "energy transfer",
     "industry": "",
     "fortune_500": false,
@@ -2048,7 +2049,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "aurora",
     "industry": "",
     "fortune_500": false,
@@ -2073,7 +2074,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "allstate",
     "industry": "",
     "fortune_500": false,
@@ -2098,7 +2099,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "avito",
     "industry": "",
     "fortune_500": false,
@@ -2123,7 +2124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "HCA Healthcare",
     "industry": "",
     "fortune_500": false,
@@ -2148,7 +2149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "booking.com",
     "industry": "",
     "fortune_500": false,
@@ -2173,7 +2174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "meta platforms",
     "industry": "",
     "fortune_500": false,
@@ -2198,7 +2199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gartner",
     "industry": "",
     "fortune_500": false,
@@ -2223,7 +2224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "state farm insurance",
     "industry": "",
     "fortune_500": false,
@@ -2248,7 +2249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bbc",
     "industry": "",
     "fortune_500": false,
@@ -2273,7 +2274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "asurion",
     "industry": "",
     "fortune_500": false,
@@ -2298,7 +2299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stitch fix",
     "industry": "",
     "fortune_500": false,
@@ -2323,7 +2324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blizzard entertainment",
     "industry": "",
     "fortune_500": false,
@@ -2348,7 +2349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "genesys",
     "industry": "",
     "fortune_500": false,
@@ -2373,7 +2374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ss&c technologies",
     "industry": "",
     "fortune_500": false,
@@ -2398,7 +2399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vodafone",
     "industry": "",
     "fortune_500": false,
@@ -2423,7 +2424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "keysight",
     "industry": "",
     "fortune_500": false,
@@ -2448,7 +2449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dazn",
     "industry": "",
     "fortune_500": false,
@@ -2473,7 +2474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "course hero",
     "industry": "",
     "fortune_500": false,
@@ -2498,7 +2499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "okta",
     "industry": "",
     "fortune_500": false,
@@ -2523,7 +2524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bosch global",
     "industry": "",
     "fortune_500": false,
@@ -2548,7 +2549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hp",
     "industry": "",
     "fortune_500": false,
@@ -2573,7 +2574,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "leidos",
     "industry": "",
     "fortune_500": false,
@@ -2598,7 +2599,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "facebook",
     "industry": "",
     "fortune_500": false,
@@ -2623,7 +2624,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "teradata",
     "industry": "",
     "fortune_500": false,
@@ -2648,7 +2649,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "adobe",
     "industry": "",
     "fortune_500": false,
@@ -2673,7 +2674,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nylas",
     "industry": "",
     "fortune_500": false,
@@ -2698,7 +2699,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ciena",
     "industry": "",
     "fortune_500": false,
@@ -2723,7 +2724,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dropbox",
     "industry": "",
     "fortune_500": false,
@@ -2748,7 +2749,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "publicis sapient",
     "industry": "",
     "fortune_500": false,
@@ -2773,7 +2774,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "anaplan",
     "industry": "",
     "fortune_500": false,
@@ -2798,7 +2799,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "netflix",
     "industry": "",
     "fortune_500": false,
@@ -2823,7 +2824,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "checkout.com",
     "industry": "",
     "fortune_500": false,
@@ -2848,7 +2849,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pfizer",
     "industry": "",
     "fortune_500": false,
@@ -2873,7 +2874,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kohl's",
     "industry": "",
     "fortune_500": false,
@@ -2898,7 +2899,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "principal financial group",
     "industry": "",
     "fortune_500": false,
@@ -2923,7 +2924,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hootsuite",
     "industry": "",
     "fortune_500": false,
@@ -2948,7 +2949,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "square",
     "industry": "",
     "fortune_500": false,
@@ -2973,7 +2974,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "marathon petroleum",
     "industry": "",
     "fortune_500": false,
@@ -2998,7 +2999,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nortonlifelock",
     "industry": "",
     "fortune_500": false,
@@ -3023,7 +3024,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sysco",
     "industry": "",
     "fortune_500": false,
@@ -3048,7 +3049,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "balyasny asset management l.p.",
     "industry": "",
     "fortune_500": false,
@@ -3073,7 +3074,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "Tesla",
     "industry": "",
     "fortune_500": false,
@@ -3098,7 +3099,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "berkshire hathaway",
     "industry": "",
     "fortune_500": false,
@@ -3123,7 +3124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "epic",
     "industry": "",
     "fortune_500": false,
@@ -3148,7 +3149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alten",
     "industry": "",
     "fortune_500": false,
@@ -3173,7 +3174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "autodesk",
     "industry": "",
     "fortune_500": false,
@@ -3198,7 +3199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "booz allen hamilton",
     "industry": "",
     "fortune_500": false,
@@ -3223,7 +3224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "inmobi",
     "industry": "",
     "fortune_500": false,
@@ -3248,7 +3249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "moody's",
     "industry": "",
     "fortune_500": false,
@@ -3273,7 +3274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "guidewire software",
     "industry": "",
     "fortune_500": false,
@@ -3298,7 +3299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blue origin",
     "industry": "",
     "fortune_500": false,
@@ -3323,7 +3324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "apollo.io",
     "industry": "",
     "fortune_500": false,
@@ -3348,7 +3349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dentsu",
     "industry": "",
     "fortune_500": false,
@@ -3373,7 +3374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hudson river trading",
     "industry": "",
     "fortune_500": false,
@@ -3398,7 +3399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "arcesium",
     "industry": "",
     "fortune_500": false,
@@ -3423,7 +3424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "garmin",
     "industry": "",
     "fortune_500": false,
@@ -3448,7 +3449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "uipath",
     "industry": "",
     "fortune_500": false,
@@ -3473,7 +3474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "shell",
     "industry": "",
     "fortune_500": false,
@@ -3498,7 +3499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bytedance",
     "industry": "",
     "fortune_500": false,
@@ -3523,7 +3524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "state farm",
     "industry": "",
     "fortune_500": false,
@@ -3548,7 +3549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "endava",
     "industry": "",
     "fortune_500": false,
@@ -3573,7 +3574,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "general motors",
     "industry": "",
     "fortune_500": false,
@@ -3598,7 +3599,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "coinbase",
     "industry": "",
     "fortune_500": false,
@@ -3623,7 +3624,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "coupa software",
     "industry": "",
     "fortune_500": false,
@@ -3648,7 +3649,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dassault systã¨mes",
     "industry": "",
     "fortune_500": false,
@@ -3673,7 +3674,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "indeed",
     "industry": "",
     "fortune_500": false,
@@ -3698,7 +3699,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "turing",
     "industry": "",
     "fortune_500": false,
@@ -3723,7 +3724,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fidelity investments",
     "industry": "",
     "fortune_500": false,
@@ -3748,7 +3749,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vistaprint",
     "industry": "",
     "fortune_500": false,
@@ -3773,7 +3774,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tenstorrent",
     "industry": "",
     "fortune_500": false,
@@ -3798,7 +3799,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wix.com",
     "industry": "",
     "fortune_500": false,
@@ -3823,7 +3824,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "keeptruckin",
     "industry": "",
     "fortune_500": false,
@@ -3848,7 +3849,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "athenahealth",
     "industry": "",
     "fortune_500": false,
@@ -3873,7 +3874,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thg",
     "industry": "",
     "fortune_500": false,
@@ -3898,7 +3899,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "samsara",
     "industry": "",
     "fortune_500": false,
@@ -3923,7 +3924,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dynatrace",
     "industry": "",
     "fortune_500": false,
@@ -3948,7 +3949,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "d-wave systems",
     "industry": "",
     "fortune_500": false,
@@ -3973,7 +3974,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "harness",
     "industry": "",
     "fortune_500": false,
@@ -3998,7 +3999,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "verkada",
     "industry": "",
     "fortune_500": false,
@@ -4023,7 +4024,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "salesforce",
     "industry": "",
     "fortune_500": false,
@@ -4048,7 +4049,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "groupon",
     "industry": "",
     "fortune_500": false,
@@ -4073,7 +4074,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kroger",
     "industry": "",
     "fortune_500": false,
@@ -4098,7 +4099,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nokia",
     "industry": "",
     "fortune_500": false,
@@ -4123,7 +4124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "walmart",
     "industry": "",
     "fortune_500": false,
@@ -4148,7 +4149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "imc",
     "industry": "",
     "fortune_500": false,
@@ -4173,7 +4174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hulu",
     "industry": "",
     "fortune_500": false,
@@ -4198,7 +4199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ni",
     "industry": "",
     "fortune_500": false,
@@ -4223,7 +4224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ringcentral",
     "industry": "",
     "fortune_500": false,
@@ -4248,7 +4249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "grammarly",
     "industry": "",
     "fortune_500": false,
@@ -4273,7 +4274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "clari",
     "industry": "",
     "fortune_500": false,
@@ -4298,7 +4299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bloomberg",
     "industry": "",
     "fortune_500": false,
@@ -4323,7 +4324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "udacity",
     "industry": "",
     "fortune_500": false,
@@ -4348,7 +4349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "transunion",
     "industry": "",
     "fortune_500": false,
@@ -4373,7 +4374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sourcegraph",
     "industry": "",
     "fortune_500": false,
@@ -4398,7 +4399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "airtable",
     "industry": "",
     "fortune_500": false,
@@ -4423,7 +4424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cruise",
     "industry": "",
     "fortune_500": false,
@@ -4448,7 +4449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "checkr",
     "industry": "",
     "fortune_500": false,
@@ -4473,7 +4474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "luxoft",
     "industry": "",
     "fortune_500": false,
@@ -4498,7 +4499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cargurus",
     "industry": "",
     "fortune_500": false,
@@ -4523,7 +4524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tata consultancy services",
     "industry": "",
     "fortune_500": false,
@@ -4548,7 +4549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ocado group",
     "industry": "",
     "fortune_500": false,
@@ -4573,7 +4574,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "yahoo",
     "industry": "",
     "fortune_500": false,
@@ -4598,7 +4599,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ConocoPhillips",
     "industry": "",
     "fortune_500": false,
@@ -4623,7 +4624,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "groq",
     "industry": "",
     "fortune_500": false,
@@ -4648,7 +4649,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "realtor.com",
     "industry": "",
     "fortune_500": false,
@@ -4673,7 +4674,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "glassdoor",
     "industry": "",
     "fortune_500": false,
@@ -4698,7 +4699,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "millennium",
     "industry": "",
     "fortune_500": false,
@@ -4723,7 +4724,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "quora",
     "industry": "",
     "fortune_500": false,
@@ -4748,7 +4749,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "segment",
     "industry": "",
     "fortune_500": false,
@@ -4773,7 +4774,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "invitae",
     "industry": "",
     "fortune_500": false,
@@ -4798,7 +4799,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "capital group",
     "industry": "",
     "fortune_500": false,
@@ -4823,7 +4824,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lenovo",
     "industry": "",
     "fortune_500": false,
@@ -4848,7 +4849,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ge",
     "industry": "",
     "fortune_500": false,
@@ -4873,7 +4874,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tomtom",
     "industry": "",
     "fortune_500": false,
@@ -4898,7 +4899,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lti",
     "industry": "",
     "fortune_500": false,
@@ -4923,7 +4924,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paychex",
     "industry": "",
     "fortune_500": false,
@@ -4948,7 +4949,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sumo logic",
     "industry": "",
     "fortune_500": false,
@@ -4973,7 +4974,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "spacex",
     "industry": "",
     "fortune_500": false,
@@ -4998,7 +4999,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nasa jpl",
     "industry": "",
     "fortune_500": false,
@@ -5023,7 +5024,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pinwheel",
     "industry": "",
     "fortune_500": false,
@@ -5048,7 +5049,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "societe generale",
     "industry": "",
     "fortune_500": false,
@@ -5073,7 +5074,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "arista networks",
     "industry": "",
     "fortune_500": false,
@@ -5098,7 +5099,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "macy's",
     "industry": "",
     "fortune_500": false,
@@ -5123,7 +5124,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "akuna capital",
     "industry": "",
     "fortune_500": false,
@@ -5148,7 +5149,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rapid7",
     "industry": "",
     "fortune_500": false,
@@ -5173,7 +5174,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sri international",
     "industry": "",
     "fortune_500": false,
@@ -5198,7 +5199,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "Wells Fargo",
     "industry": "",
     "fortune_500": false,
@@ -5223,7 +5224,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "c3.ai",
     "industry": "",
     "fortune_500": false,
@@ -5248,7 +5249,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paxos",
     "industry": "",
     "fortune_500": false,
@@ -5273,7 +5274,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "viasat",
     "industry": "",
     "fortune_500": false,
@@ -5298,7 +5299,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "binance",
     "industry": "",
     "fortune_500": false,
@@ -5323,7 +5324,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pmg",
     "industry": "",
     "fortune_500": false,
@@ -5348,7 +5349,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "toptal",
     "industry": "",
     "fortune_500": false,
@@ -5373,7 +5374,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fannie mae",
     "industry": "",
     "fortune_500": false,
@@ -5398,7 +5399,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "american airlines",
     "industry": "",
     "fortune_500": false,
@@ -5423,7 +5424,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "here technologies",
     "industry": "",
     "fortune_500": false,
@@ -5448,7 +5449,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "oyo",
     "industry": "",
     "fortune_500": false,
@@ -5473,7 +5474,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "databricks",
     "industry": "",
     "fortune_500": false,
@@ -5498,7 +5499,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rakuten",
     "industry": "",
     "fortune_500": false,
@@ -5523,7 +5524,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ozon",
     "industry": "",
     "fortune_500": false,
@@ -5548,7 +5549,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "supermicro",
     "industry": "",
     "fortune_500": false,
@@ -5573,32 +5574,177 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "3m",
-    "industry": "",
-    "fortune_500": false,
-    "fortune_1000": false,
-    "country_based": "",
+    "industry": ["Healthcare", "Consumer Goods", "Worker Safety", "Industry"],
+    "fortune_500": true,
+    "fortune_1000": true,
+    "country_based": "USA",
     "hiring_locations": [
       {
-        "country": "",
+        "country": "Australia",
+        "cities": [""]
+      },
+
+      {
+        "country": "Austria",
+        "cities": [""]
+      },
+
+      {
+        "country": "Belgium",
+        "cities": [""]
+      },
+
+      {
+        "country": "Brazil",
+        "cities": [""]
+      },
+
+      {
+        "country": "Canada",
+        "cities": [""]
+      },
+
+      {
+        "country": "China",
+        "cities": [""]
+      },
+
+      {
+        "country": "Colombia",
+        "cities": [""]
+      },
+
+      {
+        "country": "Costa Rica",
+        "cities": [""]
+      },
+
+      {
+        "country": "France",
+        "cities": [""]
+      },
+
+      {
+        "country": "Germany",
+        "cities": [""]
+      },
+
+      {
+        "country": "India",
+        "cities": [""]
+      },
+
+      {
+        "country": "Ireland",
+        "cities": [""]
+      },
+
+      {
+        "country": "Italy",
+        "cities": [""]
+      },
+
+      {
+        "country": "Japan",
+        "cities": [""]
+      },
+
+      {
+        "country": "Mexico",
+        "cities": [""]
+      },
+
+      {
+        "country": "Netherlands",
+        "cities": [""]
+      },
+
+      {
+        "country": "Philippines",
+        "cities": [""]
+      },
+
+      {
+        "country": "Poland",
+        "cities": [""]
+      },
+
+      {
+        "country": "Portugal",
+        "cities": [""]
+      },
+
+      {
+        "country": "Singapore",
+        "cities": [""]
+      },
+
+      {
+        "country": "South Africa",
+        "cities": [""]
+      },
+
+      {
+        "country": "Spain",
+        "cities": [""]
+      },
+
+      {
+        "country": "Sweden",
+        "cities": [""]
+      },
+
+      {
+        "country": "Taiwan",
+        "cities": [""]
+      },
+
+      {
+        "country": "Thailand",
+        "cities": [""]
+      },
+
+      {
+        "country": "Türkiye",
+        "cities": [""]
+      },
+
+      {
+        "country": "United Arab Emirates",
+        "cities": [""]
+      },
+
+      {
+        "country": "United Kingdom",
+        "cities": [""]
+      },
+
+      {
+        "country": "United States of America",
+        "cities": [""]
+      },
+
+      {
+        "country": "Vietnam",
         "cities": [""]
       }
     ],
-    "remote_option": false,
-    "ats": "",
+    "remote_option": true,
+    "ats": "Workday",
     "talent_pool": false,
-    "careers_url": "",
+    "careers_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search",
     "female_ceo": false,
-    "employees_no": 0,
-    "linked_in": "",
-    "twitter": "",
-    "facebook": "",
-    "youtube": "",
+    "employees_no": 85000,
+    "linked_in": "https://www.linkedin.com/company/3m",
+    "twitter": "https://twitter.com/3M",
+    "facebook": "https://www.facebook.com/3M",
+    "youtube": "https://www.youtube.com/c/3MCorporate",
     "discord": "",
-    "last_updated": "2024-03-07T-05:00"
+    "last_updated": "2024-03-09T-05:00"
   },
-{
+  {
     "company_name": "unity",
     "industry": "",
     "fortune_500": false,
@@ -5623,7 +5769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "workday",
     "industry": "",
     "fortune_500": false,
@@ -5648,7 +5794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "humana",
     "industry": "",
     "fortune_500": false,
@@ -5673,7 +5819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "progressive",
     "industry": "",
     "fortune_500": false,
@@ -5698,7 +5844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "canonical",
     "industry": "",
     "fortune_500": false,
@@ -5723,7 +5869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "telus",
     "industry": "",
     "fortune_500": false,
@@ -5748,7 +5894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "linkedin",
     "industry": "",
     "fortune_500": false,
@@ -5773,7 +5919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tencent",
     "industry": "",
     "fortune_500": false,
@@ -5798,7 +5944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thermo fisher scientific",
     "industry": "",
     "fortune_500": false,
@@ -5823,7 +5969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "susquehanna international group",
     "industry": "",
     "fortune_500": false,
@@ -5848,7 +5994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hellofresh",
     "industry": "",
     "fortune_500": false,
@@ -5873,7 +6019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "american express",
     "industry": "",
     "fortune_500": false,
@@ -5898,7 +6044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "discovery",
     "industry": "",
     "fortune_500": false,
@@ -5923,7 +6069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stonex group",
     "industry": "",
     "fortune_500": false,
@@ -5948,7 +6094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "instacart",
     "industry": "",
     "fortune_500": false,
@@ -5973,7 +6119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kin + carta",
     "industry": "",
     "fortune_500": false,
@@ -5998,7 +6144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bce",
     "industry": "",
     "fortune_500": false,
@@ -6023,7 +6169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "schneider electric",
     "industry": "",
     "fortune_500": false,
@@ -6048,7 +6194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "l3harris",
     "industry": "",
     "fortune_500": false,
@@ -6073,7 +6219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "philips",
     "industry": "",
     "fortune_500": false,
@@ -6098,7 +6244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rbc",
     "industry": "",
     "fortune_500": false,
@@ -6123,7 +6269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "h-e-b",
     "industry": "",
     "fortune_500": false,
@@ -6148,7 +6294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "john deere",
     "industry": "",
     "fortune_500": false,
@@ -6173,7 +6319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "motorola",
     "industry": "",
     "fortune_500": false,
@@ -6198,7 +6344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "schlumberger",
     "industry": "",
     "fortune_500": false,
@@ -6223,7 +6369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pagerduty",
     "industry": "",
     "fortune_500": false,
@@ -6248,7 +6394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "manulife",
     "industry": "",
     "fortune_500": false,
@@ -6273,7 +6419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "flipkart",
     "industry": "",
     "fortune_500": false,
@@ -6298,7 +6444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "netapp",
     "industry": "",
     "fortune_500": false,
@@ -6323,7 +6469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sberbank",
     "industry": "",
     "fortune_500": false,
@@ -6348,7 +6494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "box",
     "industry": "",
     "fortune_500": false,
@@ -6373,7 +6519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "morgan stanley",
     "industry": "",
     "fortune_500": false,
@@ -6398,7 +6544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stellar health",
     "industry": "",
     "fortune_500": false,
@@ -6423,7 +6569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "upstart",
     "industry": "",
     "fortune_500": false,
@@ -6448,7 +6594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "liberty mutual",
     "industry": "",
     "fortune_500": false,
@@ -6473,7 +6619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "grainger",
     "industry": "",
     "fortune_500": false,
@@ -6498,7 +6644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "arm",
     "industry": "",
     "fortune_500": false,
@@ -6523,7 +6669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lowe's",
     "industry": "",
     "fortune_500": false,
@@ -6548,7 +6694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "general dynamics mission systems",
     "industry": "",
     "fortune_500": false,
@@ -6573,7 +6719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "remitly",
     "industry": "",
     "fortune_500": false,
@@ -6598,7 +6744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "deutsche bank",
     "industry": "",
     "fortune_500": false,
@@ -6623,7 +6769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "asml",
     "industry": "",
     "fortune_500": false,
@@ -6648,7 +6794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "byju's",
     "industry": "",
     "fortune_500": false,
@@ -6673,7 +6819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "persistent systems",
     "industry": "",
     "fortune_500": false,
@@ -6698,7 +6844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "embark studios",
     "industry": "",
     "fortune_500": false,
@@ -6723,7 +6869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vk",
     "industry": "",
     "fortune_500": false,
@@ -6748,7 +6894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "u.s. bank",
     "industry": "",
     "fortune_500": false,
@@ -6773,7 +6919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "optum",
     "industry": "",
     "fortune_500": false,
@@ -6798,7 +6944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "xero",
     "industry": "",
     "fortune_500": false,
@@ -6823,7 +6969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "commscope",
     "industry": "",
     "fortune_500": false,
@@ -6848,7 +6994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "argo ai",
     "industry": "",
     "fortune_500": false,
@@ -6873,7 +7019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "brex",
     "industry": "",
     "fortune_500": false,
@@ -6898,7 +7044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hopper",
     "industry": "",
     "fortune_500": false,
@@ -6923,7 +7069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "phonepe",
     "industry": "",
     "fortune_500": false,
@@ -6948,7 +7094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wise",
     "industry": "",
     "fortune_500": false,
@@ -6973,7 +7119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "figma",
     "industry": "",
     "fortune_500": false,
@@ -6998,7 +7144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "twitch",
     "industry": "",
     "fortune_500": false,
@@ -7023,7 +7169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "latitude ai",
     "industry": "",
     "fortune_500": false,
@@ -7048,7 +7194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "usaa",
     "industry": "",
     "fortune_500": false,
@@ -7073,7 +7219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "epsilon",
     "industry": "",
     "fortune_500": false,
@@ -7098,7 +7244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "the home depot",
     "industry": "",
     "fortune_500": false,
@@ -7123,7 +7269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "smartsheet",
     "industry": "",
     "fortune_500": false,
@@ -7148,7 +7294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vmware",
     "industry": "",
     "fortune_500": false,
@@ -7173,7 +7319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "netskope",
     "industry": "",
     "fortune_500": false,
@@ -7198,7 +7344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "airbnb",
     "industry": "",
     "fortune_500": false,
@@ -7223,7 +7369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blend",
     "industry": "",
     "fortune_500": false,
@@ -7248,7 +7394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "flutter",
     "industry": "",
     "fortune_500": false,
@@ -7273,7 +7419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "comcast",
     "industry": "",
     "fortune_500": false,
@@ -7298,7 +7444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "spectrum",
     "industry": "",
     "fortune_500": false,
@@ -7323,7 +7469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ubisoft",
     "industry": "",
     "fortune_500": false,
@@ -7348,7 +7494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "texas instruments",
     "industry": "",
     "fortune_500": false,
@@ -7373,7 +7519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bayer",
     "industry": "",
     "fortune_500": false,
@@ -7398,7 +7544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rackspace",
     "industry": "",
     "fortune_500": false,
@@ -7423,7 +7569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "palantir",
     "industry": "",
     "fortune_500": false,
@@ -7448,7 +7594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rokt",
     "industry": "",
     "fortune_500": false,
@@ -7473,7 +7619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "improbable",
     "industry": "",
     "fortune_500": false,
@@ -7498,7 +7644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ubs",
     "industry": "",
     "fortune_500": false,
@@ -7523,7 +7669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ancestry",
     "industry": "",
     "fortune_500": false,
@@ -7548,7 +7694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "albertsons",
     "industry": "",
     "fortune_500": false,
@@ -7573,7 +7719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dataart",
     "industry": "",
     "fortune_500": false,
@@ -7598,7 +7744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hotstar",
     "industry": "",
     "fortune_500": false,
@@ -7623,7 +7769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "riot games",
     "industry": "",
     "fortune_500": false,
@@ -7648,7 +7794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pinterest",
     "industry": "",
     "fortune_500": false,
@@ -7673,7 +7819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mphasis",
     "industry": "",
     "fortune_500": false,
@@ -7698,7 +7844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ge digital",
     "industry": "",
     "fortune_500": false,
@@ -7723,7 +7869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "atlassian",
     "industry": "",
     "fortune_500": false,
@@ -7748,7 +7894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cloud software group",
     "industry": "",
     "fortune_500": false,
@@ -7773,7 +7919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "new relic",
     "industry": "",
     "fortune_500": false,
@@ -7798,7 +7944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "standard",
     "industry": "",
     "fortune_500": false,
@@ -7823,7 +7969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "oracle",
     "industry": "",
     "fortune_500": false,
@@ -7848,7 +7994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alation",
     "industry": "",
     "fortune_500": false,
@@ -7873,7 +8019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amplitude",
     "industry": "",
     "fortune_500": false,
@@ -7898,7 +8044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "optym",
     "industry": "",
     "fortune_500": false,
@@ -7923,7 +8069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "applovin",
     "industry": "",
     "fortune_500": false,
@@ -7948,7 +8094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "red hat",
     "industry": "",
     "fortune_500": false,
@@ -7973,7 +8119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blackrock",
     "industry": "",
     "fortune_500": false,
@@ -7998,7 +8144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "at&t",
     "industry": "",
     "fortune_500": false,
@@ -8023,7 +8169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gemini",
     "industry": "",
     "fortune_500": false,
@@ -8048,7 +8194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "didi",
     "industry": "",
     "fortune_500": false,
@@ -8073,7 +8219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fast enterprises",
     "industry": "",
     "fortune_500": false,
@@ -8098,7 +8244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "openai",
     "industry": "",
     "fortune_500": false,
@@ -8123,7 +8269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "affirm",
     "industry": "",
     "fortune_500": false,
@@ -8148,7 +8294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "draftkings",
     "industry": "",
     "fortune_500": false,
@@ -8173,7 +8319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "exl",
     "industry": "",
     "fortune_500": false,
@@ -8198,7 +8344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "outreach",
     "industry": "",
     "fortune_500": false,
@@ -8223,7 +8369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tinkoff bank",
     "industry": "",
     "fortune_500": false,
@@ -8248,7 +8394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "aveva",
     "industry": "",
     "fortune_500": false,
@@ -8273,7 +8419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ikea",
     "industry": "",
     "fortune_500": false,
@@ -8298,7 +8444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "anduril industries",
     "industry": "",
     "fortune_500": false,
@@ -8323,7 +8469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sharechat",
     "industry": "",
     "fortune_500": false,
@@ -8348,7 +8494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "chan zuckerberg initiative",
     "industry": "",
     "fortune_500": false,
@@ -8373,7 +8519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mindtree",
     "industry": "",
     "fortune_500": false,
@@ -8398,7 +8544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "udaan",
     "industry": "",
     "fortune_500": false,
@@ -8423,7 +8569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "postmates",
     "industry": "",
     "fortune_500": false,
@@ -8448,7 +8594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "vimeo",
     "industry": "",
     "fortune_500": false,
@@ -8473,7 +8619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "maxar technologies",
     "industry": "",
     "fortune_500": false,
@@ -8498,7 +8644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "honeywell",
     "industry": "",
     "fortune_500": false,
@@ -8523,7 +8669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dxc technology",
     "industry": "",
     "fortune_500": false,
@@ -8548,7 +8694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amgen",
     "industry": "",
     "fortune_500": false,
@@ -8573,7 +8719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "globallogic",
     "industry": "",
     "fortune_500": false,
@@ -8598,7 +8744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "shopee",
     "industry": "",
     "fortune_500": false,
@@ -8623,7 +8769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bcg",
     "industry": "",
     "fortune_500": false,
@@ -8648,7 +8794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "genentech",
     "industry": "",
     "fortune_500": false,
@@ -8673,7 +8819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fanatics",
     "industry": "",
     "fortune_500": false,
@@ -8698,7 +8844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "adp",
     "industry": "",
     "fortune_500": false,
@@ -8723,7 +8869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "quantiphi",
     "industry": "",
     "fortune_500": false,
@@ -8748,7 +8894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "merck",
     "industry": "",
     "fortune_500": false,
@@ -8773,7 +8919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "shipt",
     "industry": "",
     "fortune_500": false,
@@ -8798,7 +8944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amadeus",
     "industry": "",
     "fortune_500": false,
@@ -8823,7 +8969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "discover financial services",
     "industry": "",
     "fortune_500": false,
@@ -8848,7 +8994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dream11",
     "industry": "",
     "fortune_500": false,
@@ -8873,7 +9019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nbc",
     "industry": "",
     "fortune_500": false,
@@ -8898,7 +9044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "classpass",
     "industry": "",
     "fortune_500": false,
@@ -8923,7 +9069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "renesas electronics",
     "industry": "",
     "fortune_500": false,
@@ -8948,7 +9094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ihs markit",
     "industry": "",
     "fortune_500": false,
@@ -8973,7 +9119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "grid dynamics",
     "industry": "",
     "fortune_500": false,
@@ -8998,7 +9144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alarm.com",
     "industry": "",
     "fortune_500": false,
@@ -9023,7 +9169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pwc",
     "industry": "",
     "fortune_500": false,
@@ -9048,7 +9194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "freshworks",
     "industry": "",
     "fortune_500": false,
@@ -9073,7 +9219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "aptiv",
     "industry": "",
     "fortune_500": false,
@@ -9098,7 +9244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zulily",
     "industry": "",
     "fortune_500": false,
@@ -9123,7 +9269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lawrence livermore national laboratory",
     "industry": "",
     "fortune_500": false,
@@ -9148,7 +9294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "envato",
     "industry": "",
     "fortune_500": false,
@@ -9173,7 +9319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "notion",
     "industry": "",
     "fortune_500": false,
@@ -9198,7 +9344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ford motor",
     "industry": "",
     "fortune_500": false,
@@ -9223,7 +9369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "irobot",
     "industry": "",
     "fortune_500": false,
@@ -9248,7 +9394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "jpmorgan chase",
     "industry": "",
     "fortune_500": false,
@@ -9273,7 +9419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paylocity",
     "industry": "",
     "fortune_500": false,
@@ -9298,7 +9444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "globant",
     "industry": "",
     "fortune_500": false,
@@ -9323,7 +9469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mercari",
     "industry": "",
     "fortune_500": false,
@@ -9348,7 +9494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stubhub",
     "industry": "",
     "fortune_500": false,
@@ -9373,7 +9519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zalando",
     "industry": "",
     "fortune_500": false,
@@ -9398,7 +9544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "patreon",
     "industry": "",
     "fortune_500": false,
@@ -9423,7 +9569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "raytheon",
     "industry": "",
     "fortune_500": false,
@@ -9448,7 +9594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nextdoor",
     "industry": "",
     "fortune_500": false,
@@ -9473,7 +9619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "life360",
     "industry": "",
     "fortune_500": false,
@@ -9498,7 +9644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mediatek",
     "industry": "",
     "fortune_500": false,
@@ -9523,7 +9669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alaska airlines",
     "industry": "",
     "fortune_500": false,
@@ -9548,7 +9694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bill.com",
     "industry": "",
     "fortune_500": false,
@@ -9573,7 +9719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kiavi",
     "industry": "",
     "fortune_500": false,
@@ -9598,7 +9744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thales",
     "industry": "",
     "fortune_500": false,
@@ -9623,7 +9769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kyndryl",
     "industry": "",
     "fortune_500": false,
@@ -9648,7 +9794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "motional",
     "industry": "",
     "fortune_500": false,
@@ -9673,7 +9819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "doordash",
     "industry": "",
     "fortune_500": false,
@@ -9698,7 +9844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wish",
     "industry": "",
     "fortune_500": false,
@@ -9723,7 +9869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cardinal health",
     "industry": "",
     "fortune_500": false,
@@ -9748,7 +9894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "expedia",
     "industry": "",
     "fortune_500": false,
@@ -9773,7 +9919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fedex",
     "industry": "",
     "fortune_500": false,
@@ -9798,7 +9944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "intuit",
     "industry": "",
     "fortune_500": false,
@@ -9823,7 +9969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "toast, inc.",
     "industry": "",
     "fortune_500": false,
@@ -9848,7 +9994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "myntra",
     "industry": "",
     "fortune_500": false,
@@ -9873,7 +10019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mollie",
     "industry": "",
     "fortune_500": false,
@@ -9898,7 +10044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "northrop grumman",
     "industry": "",
     "fortune_500": false,
@@ -9923,7 +10069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ups",
     "industry": "",
     "fortune_500": false,
@@ -9948,7 +10094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nagarro",
     "industry": "",
     "fortune_500": false,
@@ -9973,7 +10119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ally",
     "industry": "",
     "fortune_500": false,
@@ -9998,7 +10144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lyft",
     "industry": "",
     "fortune_500": false,
@@ -10023,7 +10169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gusto",
     "industry": "",
     "fortune_500": false,
@@ -10048,7 +10194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dover",
     "industry": "",
     "fortune_500": false,
@@ -10073,7 +10219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "squarepoint capital",
     "industry": "",
     "fortune_500": false,
@@ -10098,7 +10244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "avanade",
     "industry": "",
     "fortune_500": false,
@@ -10123,7 +10269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "PepsiCo",
     "industry": "",
     "fortune_500": false,
@@ -10148,7 +10294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rally health",
     "industry": "",
     "fortune_500": false,
@@ -10173,7 +10319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "johnson & johnson",
     "industry": "",
     "fortune_500": false,
@@ -10198,7 +10344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "canva",
     "industry": "",
     "fortune_500": false,
@@ -10223,7 +10369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zynga",
     "industry": "",
     "fortune_500": false,
@@ -10248,7 +10394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "micron technology",
     "industry": "",
     "fortune_500": false,
@@ -10273,7 +10419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "siriusxm",
     "industry": "",
     "fortune_500": false,
@@ -10298,7 +10444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "southwest airlines",
     "industry": "",
     "fortune_500": false,
@@ -10323,7 +10469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "barclays",
     "industry": "",
     "fortune_500": false,
@@ -10348,7 +10494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mckinsey",
     "industry": "",
     "fortune_500": false,
@@ -10373,7 +10519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ncr",
     "industry": "",
     "fortune_500": false,
@@ -10398,7 +10544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ptc",
     "industry": "",
     "fortune_500": false,
@@ -10423,7 +10569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zillow",
     "industry": "",
     "fortune_500": false,
@@ -10448,7 +10594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "adevinta",
     "industry": "",
     "fortune_500": false,
@@ -10473,7 +10619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "micro focus",
     "industry": "",
     "fortune_500": false,
@@ -10498,7 +10644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "angi",
     "industry": "",
     "fortune_500": false,
@@ -10523,7 +10669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "roche",
     "industry": "",
     "fortune_500": false,
@@ -10548,7 +10694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mercado libre",
     "industry": "",
     "fortune_500": false,
@@ -10573,7 +10719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "valero energy",
     "industry": "",
     "fortune_500": false,
@@ -10598,7 +10744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "carmax",
     "industry": "",
     "fortune_500": false,
@@ -10623,7 +10769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lockheed martin",
     "industry": "",
     "fortune_500": false,
@@ -10648,7 +10794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kla",
     "industry": "",
     "fortune_500": false,
@@ -10673,7 +10819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lexisnexis",
     "industry": "",
     "fortune_500": false,
@@ -10698,7 +10844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "goldman sachs group",
     "industry": "",
     "fortune_500": false,
@@ -10723,7 +10869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "compass",
     "industry": "",
     "fortune_500": false,
@@ -10748,7 +10894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "scotiabank",
     "industry": "",
     "fortune_500": false,
@@ -10773,7 +10919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "best buy",
     "industry": "",
     "fortune_500": false,
@@ -10798,7 +10944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "charles schwab",
     "industry": "",
     "fortune_500": false,
@@ -10823,7 +10969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sonos",
     "industry": "",
     "fortune_500": false,
@@ -10848,7 +10994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thoughtspot",
     "industry": "",
     "fortune_500": false,
@@ -10873,7 +11019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "servicenow",
     "industry": "",
     "fortune_500": false,
@@ -10898,7 +11044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "synchrony",
     "industry": "",
     "fortune_500": false,
@@ -10923,7 +11069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mapbox",
     "industry": "",
     "fortune_500": false,
@@ -10948,7 +11094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "offerup",
     "industry": "",
     "fortune_500": false,
@@ -10973,7 +11119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "prodigal",
     "industry": "",
     "fortune_500": false,
@@ -10998,7 +11144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "softserve",
     "industry": "",
     "fortune_500": false,
@@ -11023,7 +11169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "benchling",
     "industry": "",
     "fortune_500": false,
@@ -11048,7 +11194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wepay",
     "industry": "",
     "fortune_500": false,
@@ -11073,7 +11219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ceridian",
     "industry": "",
     "fortune_500": false,
@@ -11098,7 +11244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "included health",
     "industry": "",
     "fortune_500": false,
@@ -11123,7 +11269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "discord",
     "industry": "",
     "fortune_500": false,
@@ -11148,7 +11294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nasdaq",
     "industry": "",
     "fortune_500": false,
@@ -11173,7 +11319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tinder",
     "industry": "",
     "fortune_500": false,
@@ -11198,7 +11344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dell technologies",
     "industry": "",
     "fortune_500": false,
@@ -11223,7 +11369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "align technology",
     "industry": "",
     "fortune_500": false,
@@ -11248,7 +11394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "apple",
     "industry": "",
     "fortune_500": false,
@@ -11273,7 +11419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "arrival",
     "industry": "",
     "fortune_500": false,
@@ -11298,7 +11444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cibc",
     "industry": "",
     "fortune_500": false,
@@ -11323,7 +11469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pandora",
     "industry": "",
     "fortune_500": false,
@@ -11348,7 +11494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "faire",
     "industry": "",
     "fortune_500": false,
@@ -11373,7 +11519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "glovo",
     "industry": "",
     "fortune_500": false,
@@ -11398,7 +11544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kearney",
     "industry": "",
     "fortune_500": false,
@@ -11423,7 +11569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cadence design systems",
     "industry": "",
     "fortune_500": false,
@@ -11448,7 +11594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cashfree",
     "industry": "",
     "fortune_500": false,
@@ -11473,7 +11619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "momentive.ai",
     "industry": "",
     "fortune_500": false,
@@ -11498,7 +11644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mcdonald's",
     "industry": "",
     "fortune_500": false,
@@ -11523,7 +11669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zendesk",
     "industry": "",
     "fortune_500": false,
@@ -11548,7 +11694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cdk global",
     "industry": "",
     "fortune_500": false,
@@ -11573,7 +11719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wolters kluwer",
     "industry": "",
     "fortune_500": false,
@@ -11598,7 +11744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tenable",
     "industry": "",
     "fortune_500": false,
@@ -11623,7 +11769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "carta",
     "industry": "",
     "fortune_500": false,
@@ -11648,7 +11794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fortinet",
     "industry": "",
     "fortune_500": false,
@@ -11673,7 +11819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bumble",
     "industry": "",
     "fortune_500": false,
@@ -11698,7 +11844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fis",
     "industry": "",
     "fortune_500": false,
@@ -11723,7 +11869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "peloton",
     "industry": "",
     "fortune_500": false,
@@ -11748,7 +11894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "qualcomm",
     "industry": "",
     "fortune_500": false,
@@ -11773,7 +11919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nvidia",
     "industry": "",
     "fortune_500": false,
@@ -11798,7 +11944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cloudflare",
     "industry": "",
     "fortune_500": false,
@@ -11823,7 +11969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nordstrom",
     "industry": "",
     "fortune_500": false,
@@ -11848,7 +11994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "viacomcbs",
     "industry": "",
     "fortune_500": false,
@@ -11873,7 +12019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "deliveroo",
     "industry": "",
     "fortune_500": false,
@@ -11898,7 +12044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "revolut",
     "industry": "",
     "fortune_500": false,
@@ -11923,7 +12069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rtx",
     "industry": "",
     "fortune_500": false,
@@ -11948,7 +12094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "robinhood",
     "industry": "",
     "fortune_500": false,
@@ -11973,7 +12119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bandwidth",
     "industry": "",
     "fortune_500": false,
@@ -11998,7 +12144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "macquarie group",
     "industry": "",
     "fortune_500": false,
@@ -12023,7 +12169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "slack",
     "industry": "",
     "fortune_500": false,
@@ -12048,7 +12194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bae systems",
     "industry": "",
     "fortune_500": false,
@@ -12073,7 +12219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sas software",
     "industry": "",
     "fortune_500": false,
@@ -12098,7 +12244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "marvell",
     "industry": "",
     "fortune_500": false,
@@ -12123,7 +12269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "github",
     "industry": "",
     "fortune_500": false,
@@ -12148,7 +12294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "applied materials",
     "industry": "",
     "fortune_500": false,
@@ -12173,7 +12319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "deloitte",
     "industry": "",
     "fortune_500": false,
@@ -12198,7 +12344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "deloitte advisory",
     "industry": "",
     "fortune_500": false,
@@ -12223,7 +12369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "perficient",
     "industry": "",
     "fortune_500": false,
@@ -12248,7 +12394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "eventbrite",
     "industry": "",
     "fortune_500": false,
@@ -12273,7 +12419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thomson reuters",
     "industry": "",
     "fortune_500": false,
@@ -12298,7 +12444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zoominfo",
     "industry": "",
     "fortune_500": false,
@@ -12323,7 +12469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tripadvisor",
     "industry": "",
     "fortune_500": false,
@@ -12348,7 +12494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "broadridge",
     "industry": "",
     "fortune_500": false,
@@ -12373,7 +12519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "walgreens boots alliance",
     "industry": "",
     "fortune_500": false,
@@ -12398,7 +12544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "costco wholesale",
     "industry": "",
     "fortune_500": false,
@@ -12423,7 +12569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "huawei",
     "industry": "",
     "fortune_500": false,
@@ -12448,7 +12594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rubrik",
     "industry": "",
     "fortune_500": false,
@@ -12473,7 +12619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pepsico",
     "industry": "",
     "fortune_500": false,
@@ -12498,7 +12644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "twilio",
     "industry": "",
     "fortune_500": false,
@@ -12523,7 +12669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "reddit",
     "industry": "",
     "fortune_500": false,
@@ -12548,7 +12694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nab",
     "industry": "",
     "fortune_500": false,
@@ -12573,7 +12719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "shopify",
     "industry": "",
     "fortune_500": false,
@@ -12598,7 +12744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "roblox",
     "industry": "",
     "fortune_500": false,
@@ -12623,7 +12769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "synopsys",
     "industry": "",
     "fortune_500": false,
@@ -12648,7 +12794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ericsson",
     "industry": "",
     "fortune_500": false,
@@ -12673,7 +12819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "elastic",
     "industry": "",
     "fortune_500": false,
@@ -12698,7 +12844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "block",
     "industry": "",
     "fortune_500": false,
@@ -12723,7 +12869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sailpoint",
     "industry": "",
     "fortune_500": false,
@@ -12748,7 +12894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "digitalocean",
     "industry": "",
     "fortune_500": false,
@@ -12773,7 +12919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "chime",
     "industry": "",
     "fortune_500": false,
@@ -12798,7 +12944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sixt",
     "industry": "",
     "fortune_500": false,
@@ -12823,7 +12969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "broadcom",
     "industry": "",
     "fortune_500": false,
@@ -12848,7 +12994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zapier",
     "industry": "",
     "fortune_500": false,
@@ -12873,7 +13019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zscaler",
     "industry": "",
     "fortune_500": false,
@@ -12898,7 +13044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mongodb",
     "industry": "",
     "fortune_500": false,
@@ -12923,7 +13069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "Walt Disney",
     "industry": "",
     "fortune_500": false,
@@ -12948,7 +13094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dialpad",
     "industry": "",
     "fortune_500": false,
@@ -12973,7 +13119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "willowtree",
     "industry": "",
     "fortune_500": false,
@@ -12998,7 +13144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "slalom build",
     "industry": "",
     "fortune_500": false,
@@ -13023,7 +13169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lucid motors",
     "industry": "",
     "fortune_500": false,
@@ -13048,7 +13194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "capital one",
     "industry": "",
     "fortune_500": false,
@@ -13073,7 +13219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "proofpoint",
     "industry": "",
     "fortune_500": false,
@@ -13098,7 +13244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "saic",
     "industry": "",
     "fortune_500": false,
@@ -13123,7 +13269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ziprecruiter",
     "industry": "",
     "fortune_500": false,
@@ -13148,7 +13294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wealthsimple",
     "industry": "",
     "fortune_500": false,
@@ -13173,7 +13319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "warnermedia",
     "industry": "",
     "fortune_500": false,
@@ -13198,7 +13344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zebra technologies",
     "industry": "",
     "fortune_500": false,
@@ -13223,7 +13369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amazon",
     "industry": "",
     "fortune_500": false,
@@ -13248,7 +13394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hbc digital",
     "industry": "",
     "fortune_500": false,
@@ -13273,7 +13419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tempus",
     "industry": "",
     "fortune_500": false,
@@ -13298,7 +13444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "carvana",
     "industry": "",
     "fortune_500": false,
@@ -13323,7 +13469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gopuff",
     "industry": "",
     "fortune_500": false,
@@ -13348,7 +13494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "naspers",
     "industry": "",
     "fortune_500": false,
@@ -13373,7 +13519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mcafee",
     "industry": "",
     "fortune_500": false,
@@ -13398,7 +13544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "singtel",
     "industry": "",
     "fortune_500": false,
@@ -13423,7 +13569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ing",
     "industry": "",
     "fortune_500": false,
@@ -13448,7 +13594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sap",
     "industry": "",
     "fortune_500": false,
@@ -13473,7 +13619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "exxon mobil",
     "industry": "",
     "fortune_500": false,
@@ -13498,7 +13644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "skyscanner",
     "industry": "",
     "fortune_500": false,
@@ -13523,7 +13669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "target",
     "industry": "",
     "fortune_500": false,
@@ -13548,7 +13694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "akamai",
     "industry": "",
     "fortune_500": false,
@@ -13573,7 +13719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ernst and young",
     "industry": "",
     "fortune_500": false,
@@ -13598,7 +13744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "yext",
     "industry": "",
     "fortune_500": false,
@@ -13623,7 +13769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "opendoor",
     "industry": "",
     "fortune_500": false,
@@ -13648,7 +13794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "s&p global",
     "industry": "",
     "fortune_500": false,
@@ -13673,7 +13819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ebay",
     "industry": "",
     "fortune_500": false,
@@ -13698,7 +13844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hcl technologies",
     "industry": "",
     "fortune_500": false,
@@ -13723,7 +13869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "marqeta",
     "industry": "",
     "fortune_500": false,
@@ -13748,7 +13894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "xandr",
     "industry": "",
     "fortune_500": false,
@@ -13773,7 +13919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "swissborg",
     "industry": "",
     "fortune_500": false,
@@ -13798,7 +13944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paypal",
     "industry": "",
     "fortune_500": false,
@@ -13823,7 +13969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "synology",
     "industry": "",
     "fortune_500": false,
@@ -13848,7 +13994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "the new york times company",
     "industry": "",
     "fortune_500": false,
@@ -13873,7 +14019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stryker",
     "industry": "",
     "fortune_500": false,
@@ -13898,7 +14044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "confluent",
     "industry": "",
     "fortune_500": false,
@@ -13923,7 +14069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "axon",
     "industry": "",
     "fortune_500": false,
@@ -13948,7 +14094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cbre",
     "industry": "",
     "fortune_500": false,
@@ -13973,7 +14119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hertz",
     "industry": "",
     "fortune_500": false,
@@ -13998,7 +14144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "baidu",
     "industry": "",
     "fortune_500": false,
@@ -14023,7 +14169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "relativity",
     "industry": "",
     "fortune_500": false,
@@ -14048,7 +14194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mercedes-benz",
     "industry": "",
     "fortune_500": false,
@@ -14073,7 +14219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "experian",
     "industry": "",
     "fortune_500": false,
@@ -14098,7 +14244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "oscar health",
     "industry": "",
     "fortune_500": false,
@@ -14123,7 +14269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "niantic",
     "industry": "",
     "fortune_500": false,
@@ -14148,7 +14294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "veritas technologies",
     "industry": "",
     "fortune_500": false,
@@ -14173,7 +14319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nubank",
     "industry": "",
     "fortune_500": false,
@@ -14198,7 +14344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "microsoft",
     "industry": "",
     "fortune_500": false,
@@ -14223,7 +14369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "phillips 66",
     "industry": "",
     "fortune_500": false,
@@ -14248,7 +14394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amd",
     "industry": "",
     "fortune_500": false,
@@ -14273,7 +14419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "honor",
     "industry": "",
     "fortune_500": false,
@@ -14298,7 +14444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "adyen",
     "industry": "",
     "fortune_500": false,
@@ -14323,7 +14469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hpe",
     "industry": "",
     "fortune_500": false,
@@ -14348,7 +14494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "verisk",
     "industry": "",
     "fortune_500": false,
@@ -14373,7 +14519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "convoy",
     "industry": "",
     "fortune_500": false,
@@ -14398,7 +14544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "intel",
     "industry": "",
     "fortune_500": false,
@@ -14423,7 +14569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nxp semiconductors",
     "industry": "",
     "fortune_500": false,
@@ -14448,7 +14594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "epam systems",
     "industry": "",
     "fortune_500": false,
@@ -14473,7 +14619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cred",
     "industry": "",
     "fortune_500": false,
@@ -14498,7 +14644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "addepar",
     "industry": "",
     "fortune_500": false,
@@ -14523,7 +14669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "commvault",
     "industry": "",
     "fortune_500": false,
@@ -14548,7 +14694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alteryx",
     "industry": "",
     "fortune_500": false,
@@ -14573,7 +14719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ansys",
     "industry": "",
     "fortune_500": false,
@@ -14598,7 +14744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "chai research",
     "industry": "",
     "fortune_500": false,
@@ -14623,7 +14769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "loblaw digital",
     "industry": "",
     "fortune_500": false,
@@ -14648,7 +14794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "airtel india",
     "industry": "",
     "fortune_500": false,
@@ -14673,7 +14819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "chevron",
     "industry": "",
     "fortune_500": false,
@@ -14698,7 +14844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nexient",
     "industry": "",
     "fortune_500": false,
@@ -14723,7 +14869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "samsung",
     "industry": "",
     "fortune_500": false,
@@ -14748,7 +14894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "grab",
     "industry": "",
     "fortune_500": false,
@@ -14773,7 +14919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cerebras systems",
     "industry": "",
     "fortune_500": false,
@@ -14798,7 +14944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wissen technology",
     "industry": "",
     "fortune_500": false,
@@ -14823,7 +14969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tech mahindra",
     "industry": "",
     "fortune_500": false,
@@ -14848,7 +14994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "electronic arts",
     "industry": "",
     "fortune_500": false,
@@ -14873,7 +15019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "costar group",
     "industry": "",
     "fortune_500": false,
@@ -14898,7 +15044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rocket mortgage",
     "industry": "",
     "fortune_500": false,
@@ -14923,7 +15069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "accenture",
     "industry": "",
     "fortune_500": false,
@@ -14948,7 +15094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "datadog",
     "industry": "",
     "fortune_500": false,
@@ -14973,7 +15119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "exxonmobil",
     "industry": "",
     "fortune_500": false,
@@ -14998,7 +15144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "factset",
     "industry": "",
     "fortune_500": false,
@@ -15023,7 +15169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wipro",
     "industry": "",
     "fortune_500": false,
@@ -15048,7 +15194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "duolingo",
     "industry": "",
     "fortune_500": false,
@@ -15073,7 +15219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nerdwallet",
     "industry": "",
     "fortune_500": false,
@@ -15098,7 +15244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "acorns",
     "industry": "",
     "fortune_500": false,
@@ -15123,7 +15269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "apptio",
     "industry": "",
     "fortune_500": false,
@@ -15148,7 +15294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "careem",
     "industry": "",
     "fortune_500": false,
@@ -15173,7 +15319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pnc",
     "industry": "",
     "fortune_500": false,
@@ -15198,7 +15344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "liveramp",
     "industry": "",
     "fortune_500": false,
@@ -15223,7 +15369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "Procter & Gamble",
     "industry": "",
     "fortune_500": false,
@@ -15248,7 +15394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "asana",
     "industry": "",
     "fortune_500": false,
@@ -15273,7 +15419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "datarobot",
     "industry": "",
     "fortune_500": false,
@@ -15298,7 +15444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "twitter",
     "industry": "",
     "fortune_500": false,
@@ -15323,7 +15469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "TD Synnex",
     "industry": "",
     "fortune_500": false,
@@ -15348,7 +15494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "swisscom",
     "industry": "",
     "fortune_500": false,
@@ -15373,7 +15519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "discover",
     "industry": "",
     "fortune_500": false,
@@ -15398,7 +15544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "prudential financial",
     "industry": "",
     "fortune_500": false,
@@ -15423,7 +15569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "travelers",
     "industry": "",
     "fortune_500": false,
@@ -15448,7 +15594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "oliver wyman",
     "industry": "",
     "fortune_500": false,
@@ -15473,7 +15619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "jetbrains",
     "industry": "",
     "fortune_500": false,
@@ -15498,7 +15644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cohesity",
     "industry": "",
     "fortune_500": false,
@@ -15523,7 +15669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "quantcast",
     "industry": "",
     "fortune_500": false,
@@ -15548,7 +15694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "trade republic",
     "industry": "",
     "fortune_500": false,
@@ -15573,7 +15719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "yelp",
     "industry": "",
     "fortune_500": false,
@@ -15598,7 +15744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "klarna",
     "industry": "",
     "fortune_500": false,
@@ -15623,7 +15769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amobee",
     "industry": "",
     "fortune_500": false,
@@ -15648,7 +15794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "juniper networks",
     "industry": "",
     "fortune_500": false,
@@ -15673,7 +15819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "kaiser permanente",
     "industry": "",
     "fortune_500": false,
@@ -15698,7 +15844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "udemy",
     "industry": "",
     "fortune_500": false,
@@ -15723,7 +15869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alibaba",
     "industry": "",
     "fortune_500": false,
@@ -15748,7 +15894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "circleci",
     "industry": "",
     "fortune_500": false,
@@ -15773,7 +15919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cloudera",
     "industry": "",
     "fortune_500": false,
@@ -15798,7 +15944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bank of america",
     "industry": "",
     "fortune_500": false,
@@ -15823,7 +15969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gojek tech",
     "industry": "",
     "fortune_500": false,
@@ -15848,7 +15994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "aetna",
     "industry": "",
     "fortune_500": false,
@@ -15873,7 +16019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "opensea",
     "industry": "",
     "fortune_500": false,
@@ -15898,7 +16044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "moloco",
     "industry": "",
     "fortune_500": false,
@@ -15923,7 +16069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "n26",
     "industry": "",
     "fortune_500": false,
@@ -15948,7 +16094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "disney",
     "industry": "",
     "fortune_500": false,
@@ -15973,7 +16119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "anz",
     "industry": "",
     "fortune_500": false,
@@ -15998,7 +16144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "abc",
     "industry": "",
     "fortune_500": false,
@@ -16023,7 +16169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "skillz",
     "industry": "",
     "fortune_500": false,
@@ -16048,7 +16194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "allegis group",
     "industry": "",
     "fortune_500": false,
@@ -16073,7 +16219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cencora",
     "industry": "",
     "fortune_500": false,
@@ -16098,7 +16244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sprout social",
     "industry": "",
     "fortune_500": false,
@@ -16123,7 +16269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ifood",
     "industry": "",
     "fortune_500": false,
@@ -16148,7 +16294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sofi",
     "industry": "",
     "fortune_500": false,
@@ -16173,7 +16319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "citi",
     "industry": "",
     "fortune_500": false,
@@ -16198,7 +16344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "centene",
     "industry": "",
     "fortune_500": false,
@@ -16223,7 +16369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "makemytrip",
     "industry": "",
     "fortune_500": false,
@@ -16248,7 +16394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "automattic",
     "industry": "",
     "fortune_500": false,
@@ -16273,7 +16419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "better mortgage",
     "industry": "",
     "fortune_500": false,
@@ -16298,7 +16444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "icims",
     "industry": "",
     "fortune_500": false,
@@ -16323,7 +16469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "contentful",
     "industry": "",
     "fortune_500": false,
@@ -16348,7 +16494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "squarespace",
     "industry": "",
     "fortune_500": false,
@@ -16373,7 +16519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "teladoc health",
     "industry": "",
     "fortune_500": false,
@@ -16398,7 +16544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "splunk",
     "industry": "",
     "fortune_500": false,
@@ -16423,7 +16569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "chewy",
     "industry": "",
     "fortune_500": false,
@@ -16448,7 +16594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "thoughtworks",
     "industry": "",
     "fortune_500": false,
@@ -16473,7 +16619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "palo alto networks",
     "industry": "",
     "fortune_500": false,
@@ -16498,7 +16644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "goodrx",
     "industry": "",
     "fortune_500": false,
@@ -16523,7 +16669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "clickup",
     "industry": "",
     "fortune_500": false,
@@ -16548,7 +16694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sap concur",
     "industry": "",
     "fortune_500": false,
@@ -16573,7 +16719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "intercom",
     "industry": "",
     "fortune_500": false,
@@ -16598,7 +16744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "flatiron health",
     "industry": "",
     "fortune_500": false,
@@ -16623,7 +16769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zs",
     "industry": "",
     "fortune_500": false,
@@ -16648,7 +16794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "amdocs",
     "industry": "",
     "fortune_500": false,
@@ -16673,7 +16819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "revature",
     "industry": "",
     "fortune_500": false,
@@ -16698,7 +16844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "esri",
     "industry": "",
     "fortune_500": false,
@@ -16723,7 +16869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "atos",
     "industry": "",
     "fortune_500": false,
@@ -16748,7 +16894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "aviatrix",
     "industry": "",
     "fortune_500": false,
@@ -16773,7 +16919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "doctolib",
     "industry": "",
     "fortune_500": false,
@@ -16798,7 +16944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "snowflake",
     "industry": "",
     "fortune_500": false,
@@ -16823,7 +16969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "starbucks",
     "industry": "",
     "fortune_500": false,
@@ -16848,7 +16994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "metlife",
     "industry": "",
     "fortune_500": false,
@@ -16873,7 +17019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rippling",
     "industry": "",
     "fortune_500": false,
@@ -16898,7 +17044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "verily",
     "industry": "",
     "fortune_500": false,
@@ -16923,7 +17069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pure storage",
     "industry": "",
     "fortune_500": false,
@@ -16948,7 +17094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "two sigma",
     "industry": "",
     "fortune_500": false,
@@ -16973,7 +17119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "miro",
     "industry": "",
     "fortune_500": false,
@@ -16998,7 +17144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fullscript",
     "industry": "",
     "fortune_500": false,
@@ -17023,7 +17169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mckesson",
     "industry": "",
     "fortune_500": false,
@@ -17048,7 +17194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "trimble",
     "industry": "",
     "fortune_500": false,
@@ -17073,7 +17219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "uber",
     "industry": "",
     "fortune_500": false,
@@ -17098,7 +17244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "wells fargo",
     "industry": "",
     "fortune_500": false,
@@ -17123,7 +17269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "credit karma",
     "industry": "",
     "fortune_500": false,
@@ -17148,7 +17294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "instabase",
     "industry": "",
     "fortune_500": false,
@@ -17173,7 +17319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "abbott",
     "industry": "",
     "fortune_500": false,
@@ -17198,7 +17344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mercury",
     "industry": "",
     "fortune_500": false,
@@ -17223,7 +17369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "boeing",
     "industry": "",
     "fortune_500": false,
@@ -17248,7 +17394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "playstation",
     "industry": "",
     "fortune_500": false,
@@ -17273,7 +17419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "caci international",
     "industry": "",
     "fortune_500": false,
@@ -17298,7 +17444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "microchip technology",
     "industry": "",
     "fortune_500": false,
@@ -17323,7 +17469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paycom",
     "industry": "",
     "fortune_500": false,
@@ -17348,7 +17494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "scale ai",
     "industry": "",
     "fortune_500": false,
@@ -17373,7 +17519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hashicorp",
     "industry": "",
     "fortune_500": false,
@@ -17398,7 +17544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "morningstar",
     "industry": "",
     "fortune_500": false,
@@ -17423,7 +17569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "General Electric",
     "industry": "",
     "fortune_500": false,
@@ -17448,7 +17594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "intuitive",
     "industry": "",
     "fortune_500": false,
@@ -17473,7 +17619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "attentive",
     "industry": "",
     "fortune_500": false,
@@ -17498,7 +17644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "home depot",
     "industry": "",
     "fortune_500": false,
@@ -17523,7 +17669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "braze",
     "industry": "",
     "fortune_500": false,
@@ -17548,7 +17694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stripe",
     "industry": "",
     "fortune_500": false,
@@ -17573,7 +17719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ampere computing",
     "industry": "",
     "fortune_500": false,
@@ -17598,7 +17744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sabre",
     "industry": "",
     "fortune_500": false,
@@ -17623,7 +17769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "trend micro",
     "industry": "",
     "fortune_500": false,
@@ -17648,7 +17794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sony",
     "industry": "",
     "fortune_500": false,
@@ -17673,7 +17819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "t-mobile",
     "industry": "",
     "fortune_500": false,
@@ -17698,7 +17844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blackstone",
     "industry": "",
     "fortune_500": false,
@@ -17723,7 +17869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sprinklr",
     "industry": "",
     "fortune_500": false,
@@ -17748,7 +17894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "unitedhealth group",
     "industry": "",
     "fortune_500": false,
@@ -17773,7 +17919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "analog devices",
     "industry": "",
     "fortune_500": false,
@@ -17798,7 +17944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "jane street",
     "industry": "",
     "fortune_500": false,
@@ -17823,7 +17969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "activecampaign",
     "industry": "",
     "fortune_500": false,
@@ -17848,7 +17994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "walmart global tech",
     "industry": "",
     "fortune_500": false,
@@ -17873,7 +18019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mitre",
     "industry": "",
     "fortune_500": false,
@@ -17898,7 +18044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "soundcloud",
     "industry": "",
     "fortune_500": false,
@@ -17923,7 +18069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "turnberry solutions",
     "industry": "",
     "fortune_500": false,
@@ -17948,7 +18094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ixl learning",
     "industry": "",
     "fortune_500": false,
@@ -17973,7 +18119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "plaid",
     "industry": "",
     "fortune_500": false,
@@ -17998,7 +18144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "geico",
     "industry": "",
     "fortune_500": false,
@@ -18023,7 +18169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "global relay",
     "industry": "",
     "fortune_500": false,
@@ -18048,7 +18194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nutanix",
     "industry": "",
     "fortune_500": false,
@@ -18073,7 +18219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "t. rowe price",
     "industry": "",
     "fortune_500": false,
@@ -18098,7 +18244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tableau software",
     "industry": "",
     "fortune_500": false,
@@ -18123,7 +18269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "upwork",
     "industry": "",
     "fortune_500": false,
@@ -18148,7 +18294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "the trade desk",
     "industry": "",
     "fortune_500": false,
@@ -18173,7 +18319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "solo.co",
     "industry": "",
     "fortune_500": false,
@@ -18198,7 +18344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "credit suisse",
     "industry": "",
     "fortune_500": false,
@@ -18223,7 +18369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "equifax",
     "industry": "",
     "fortune_500": false,
@@ -18248,7 +18394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "alphabet",
     "industry": "",
     "fortune_500": false,
@@ -18273,7 +18419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "drw",
     "industry": "",
     "fortune_500": false,
@@ -18298,7 +18444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nike",
     "industry": "",
     "fortune_500": false,
@@ -18323,7 +18469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "stellantis",
     "industry": "",
     "fortune_500": false,
@@ -18348,7 +18494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "nielsen",
     "industry": "",
     "fortune_500": false,
@@ -18373,7 +18519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "slalom",
     "industry": "",
     "fortune_500": false,
@@ -18398,7 +18544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "m&t bank",
     "industry": "",
     "fortune_500": false,
@@ -18423,7 +18569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ukg",
     "industry": "",
     "fortune_500": false,
@@ -18448,7 +18594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "jio",
     "industry": "",
     "fortune_500": false,
@@ -18473,7 +18619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fiserv",
     "industry": "",
     "fortune_500": false,
@@ -18498,7 +18644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "personio",
     "industry": "",
     "fortune_500": false,
@@ -18523,7 +18669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cox automotive",
     "industry": "",
     "fortune_500": false,
@@ -18548,7 +18694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hbo",
     "industry": "",
     "fortune_500": false,
@@ -18573,7 +18719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ibm",
     "industry": "",
     "fortune_500": false,
@@ -18598,7 +18744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "delivery hero",
     "industry": "",
     "fortune_500": false,
@@ -18623,7 +18769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "coupang",
     "industry": "",
     "fortune_500": false,
@@ -18648,7 +18794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "klaviyo",
     "industry": "",
     "fortune_500": false,
@@ -18673,7 +18819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "procter & gamble",
     "industry": "",
     "fortune_500": false,
@@ -18698,7 +18844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "iqvia",
     "industry": "",
     "fortune_500": false,
@@ -18723,7 +18869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "raven industries",
     "industry": "",
     "fortune_500": false,
@@ -18748,7 +18894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mailchimp",
     "industry": "",
     "fortune_500": false,
@@ -18773,7 +18919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "delta air lines",
     "industry": "",
     "fortune_500": false,
@@ -18798,7 +18944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cvs health",
     "industry": "",
     "fortune_500": false,
@@ -18823,7 +18969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "elevance health",
     "industry": "",
     "fortune_500": false,
@@ -18848,7 +18994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bny mellon",
     "industry": "",
     "fortune_500": false,
@@ -18873,7 +19019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "booking holdings",
     "industry": "",
     "fortune_500": false,
@@ -18898,7 +19044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "fetch",
     "industry": "",
     "fortune_500": false,
@@ -18923,7 +19069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "f5 networks",
     "industry": "",
     "fortune_500": false,
@@ -18948,7 +19094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "informatica",
     "industry": "",
     "fortune_500": false,
@@ -18973,7 +19119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "swiggy",
     "industry": "",
     "fortune_500": false,
@@ -18998,7 +19144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mission lane",
     "industry": "",
     "fortune_500": false,
@@ -19023,7 +19169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tesla",
     "industry": "",
     "fortune_500": false,
@@ -19048,7 +19194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "flexport",
     "industry": "",
     "fortune_500": false,
@@ -19073,7 +19219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tanium",
     "industry": "",
     "fortune_500": false,
@@ -19098,7 +19244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cme group",
     "industry": "",
     "fortune_500": false,
@@ -19123,7 +19269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "verizon",
     "industry": "",
     "fortune_500": false,
@@ -19148,7 +19294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cimpress",
     "industry": "",
     "fortune_500": false,
@@ -19173,7 +19319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pluralsight",
     "industry": "",
     "fortune_500": false,
@@ -19198,7 +19344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "siemens",
     "industry": "",
     "fortune_500": false,
@@ -19223,7 +19369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "etsy",
     "industry": "",
     "fortune_500": false,
@@ -19248,7 +19394,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "scribd",
     "industry": "",
     "fortune_500": false,
@@ -19273,7 +19419,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gft group",
     "industry": "",
     "fortune_500": false,
@@ -19298,7 +19444,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "infor",
     "industry": "",
     "fortune_500": false,
@@ -19323,7 +19469,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "sopra steria",
     "industry": "",
     "fortune_500": false,
@@ -19348,7 +19494,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "rivian",
     "industry": "",
     "fortune_500": false,
@@ -19373,7 +19519,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "bp",
     "industry": "",
     "fortune_500": false,
@@ -19398,7 +19544,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cummins",
     "industry": "",
     "fortune_500": false,
@@ -19423,7 +19569,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "blackhawk network",
     "industry": "",
     "fortune_500": false,
@@ -19448,7 +19594,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "cloudkitchens",
     "industry": "",
     "fortune_500": false,
@@ -19473,7 +19619,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "paytm",
     "industry": "",
     "fortune_500": false,
@@ -19498,7 +19644,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dexcom",
     "industry": "",
     "fortune_500": false,
@@ -19523,7 +19669,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "medtronic",
     "industry": "",
     "fortune_500": false,
@@ -19548,7 +19694,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "epic games",
     "industry": "",
     "fortune_500": false,
@@ -19573,7 +19719,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "geotab",
     "industry": "",
     "fortune_500": false,
@@ -19598,7 +19744,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "opentext",
     "industry": "",
     "fortune_500": false,
@@ -19623,7 +19769,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "foursquare",
     "industry": "",
     "fortune_500": false,
@@ -19648,7 +19794,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lacework",
     "industry": "",
     "fortune_500": false,
@@ -19673,7 +19819,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "northwestern mutual",
     "industry": "",
     "fortune_500": false,
@@ -19698,7 +19844,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "grubhub",
     "industry": "",
     "fortune_500": false,
@@ -19723,7 +19869,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "citrix",
     "industry": "",
     "fortune_500": false,
@@ -19748,7 +19894,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "lululemon",
     "industry": "",
     "fortune_500": false,
@@ -19773,7 +19919,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "optiver",
     "industry": "",
     "fortune_500": false,
@@ -19798,7 +19944,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "dish network",
     "industry": "",
     "fortune_500": false,
@@ -19823,7 +19969,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "gap",
     "industry": "",
     "fortune_500": false,
@@ -19848,7 +19994,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "verizon communications",
     "industry": "",
     "fortune_500": false,
@@ -19873,7 +20019,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "zoom",
     "industry": "",
     "fortune_500": false,
@@ -19898,7 +20044,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "coursera",
     "industry": "",
     "fortune_500": false,
@@ -19923,7 +20069,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "audible",
     "industry": "",
     "fortune_500": false,
@@ -19948,7 +20094,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "caterpillar",
     "industry": "",
     "fortune_500": false,
@@ -19973,7 +20119,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "hsbc",
     "industry": "",
     "fortune_500": false,
@@ -19998,7 +20144,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "warner bros. discovery",
     "industry": "",
     "fortune_500": false,
@@ -20023,7 +20169,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "qualtrics",
     "industry": "",
     "fortune_500": false,
@@ -20048,7 +20194,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "xilinx",
     "industry": "",
     "fortune_500": false,
@@ -20073,7 +20219,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "houzz",
     "industry": "",
     "fortune_500": false,
@@ -20098,7 +20244,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "ntt data",
     "industry": "",
     "fortune_500": false,
@@ -20123,7 +20269,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tekion",
     "industry": "",
     "fortune_500": false,
@@ -20148,7 +20294,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "pegasystems",
     "industry": "",
     "fortune_500": false,
@@ -20173,7 +20319,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "citigroup",
     "industry": "",
     "fortune_500": false,
@@ -20198,7 +20344,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "mozilla",
     "industry": "",
     "fortune_500": false,
@@ -20223,7 +20369,7 @@
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
-{
+  {
     "company_name": "tusimple",
     "industry": "",
     "fortune_500": false,
