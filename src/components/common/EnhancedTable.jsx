@@ -56,15 +56,6 @@ const columns = [
     },
   },
   {
-    name: "country_based",
-    label: "Country Based",
-    options: {
-      filter: true,
-      sort: true,
-    },
-  },
-
-  {
     name: "remote_option",
     label: "Remote Option",
     options: {
