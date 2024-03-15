@@ -63,25 +63,7 @@ const columns = [
       sort: true,
     },
   },
-  {
-    name: "hiring_locations",
-    label: "Hiring Locations",
-    options: {
-      filter: true,
-      sort: true,
-      customBodyRender: (value) => {
-        // Map each hiring location to a fragment containing the country, cities, and a line break
-        return value.map((location, index) => (
-          <React.Fragment key={index}>
-            <strong>{location.country}</strong>: <br />{" "}
-            {location.cities.join(", ")}
-            <br />
-            <br />
-          </React.Fragment>
-        ));
-      },
-    },
-  },
+
   {
     name: "remote_option",
     label: "Remote Option",
