@@ -5576,173 +5576,28 @@
   },
   {
     "company_name": "3m",
-    "industry": ["Healthcare", "Consumer Goods", "Worker Safety", "Industry"],
-    "fortune_500": true,
-    "fortune_1000": true,
-    "country_based": "USA",
+    "industry": "",
+    "fortune_500": false,
+    "fortune_1000": false,
+    "country_based": "",
     "hiring_locations": [
       {
-        "country": "Australia",
-        "cities": [""]
-      },
-
-      {
-        "country": "Austria",
-        "cities": [""]
-      },
-
-      {
-        "country": "Belgium",
-        "cities": [""]
-      },
-
-      {
-        "country": "Brazil",
-        "cities": [""]
-      },
-
-      {
-        "country": "Canada",
-        "cities": [""]
-      },
-
-      {
-        "country": "China",
-        "cities": [""]
-      },
-
-      {
-        "country": "Colombia",
-        "cities": [""]
-      },
-
-      {
-        "country": "Costa Rica",
-        "cities": [""]
-      },
-
-      {
-        "country": "France",
-        "cities": [""]
-      },
-
-      {
-        "country": "Germany",
-        "cities": [""]
-      },
-
-      {
-        "country": "India",
-        "cities": [""]
-      },
-
-      {
-        "country": "Ireland",
-        "cities": [""]
-      },
-
-      {
-        "country": "Italy",
-        "cities": [""]
-      },
-
-      {
-        "country": "Japan",
-        "cities": [""]
-      },
-
-      {
-        "country": "Mexico",
-        "cities": [""]
-      },
-
-      {
-        "country": "Netherlands",
-        "cities": [""]
-      },
-
-      {
-        "country": "Philippines",
-        "cities": [""]
-      },
-
-      {
-        "country": "Poland",
-        "cities": [""]
-      },
-
-      {
-        "country": "Portugal",
-        "cities": [""]
-      },
-
-      {
-        "country": "Singapore",
-        "cities": [""]
-      },
-
-      {
-        "country": "South Africa",
-        "cities": [""]
-      },
-
-      {
-        "country": "Spain",
-        "cities": [""]
-      },
-
-      {
-        "country": "Sweden",
-        "cities": [""]
-      },
-
-      {
-        "country": "Taiwan",
-        "cities": [""]
-      },
-
-      {
-        "country": "Thailand",
-        "cities": [""]
-      },
-
-      {
-        "country": "Türkiye",
-        "cities": [""]
-      },
-
-      {
-        "country": "United Arab Emirates",
-        "cities": [""]
-      },
-
-      {
-        "country": "United Kingdom",
-        "cities": [""]
-      },
-
-      {
-        "country": "United States of America",
-        "cities": [""]
-      },
-
-      {
-        "country": "Vietnam",
+        "country": "",
         "cities": [""]
       }
     ],
-    "remote_option": true,
-    "ats": "Workday",
+    "remote_option": false,
+    "ats": "",
     "talent_pool": false,
-    "careers_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search",
+    "careers_url": "",
     "female_ceo": false,
-    "employees_no": 85000,
-    "linked_in": "https://www.linkedin.com/company/3m",
-    "twitter": "https://twitter.com/3M",
-    "facebook": "https://www.facebook.com/3M",
-    "youtube": "https://www.youtube.com/c/3MCorporate",
+    "employees_no": 0,
+    "linked_in": "",
+    "twitter": "",
+    "facebook": "",
+    "youtube": "",
     "discord": "",
-    "last_updated": "2024-03-09T-05:00"
+    "last_updated": "2024-03-07T-05:00"
   },
   {
     "company_name": "unity",
@@ -5767,7 +5622,7 @@
     "facebook": "",
     "youtube": "",
     "discord": "",
-    "last_updated": "2024-03-11T-04:00"
+    "last_updated": "2024-03-07T-05:00"
   },
   {
     "company_name": "workday",
