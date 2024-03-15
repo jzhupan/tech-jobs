@@ -1,8 +1,19 @@
 [
   {
     "company_name": "cgi",
-    "industry": "",
-    "fortune_500": false,
+    "industry": [
+      "Software Development/Engineering",
+      "Project Management",
+      "ERP/CRM/Tools",
+      "Administration",
+      "Marketing",
+      "Legal Affairs",
+      "Cyber Security",
+      "Infrastructure/Cloud",
+      "Architecture",
+      "Business Consulting, Strategy and Digital Transformation"
+    ],
+    "fortune_500": true,
     "fortune_1000": false,
     "country_based": "",
     "hiring_locations": [
@@ -14,13 +25,13 @@
     "remote_option": false,
     "ats": "",
     "talent_pool": false,
-    "careers_url": "",
+    "careers_url": "https://www.cgi.com/en/careers",
     "female_ceo": false,
     "employees_no": 0,
-    "linked_in": "",
-    "twitter": "",
-    "facebook": "",
-    "youtube": "",
+    "linked_in": "https://www.linkedin.com/company/cgi/",
+    "twitter": "https://twitter.com/cgi_global",
+    "facebook": "https://www.facebook.com/CGIGroup/",
+    "youtube": "https://www.youtube.com/channel/UCLEgDiEEhnqzIhKgBbDkOTw",
     "discord": "",
     "last_updated": "2024-03-07T-05:00"
   },
