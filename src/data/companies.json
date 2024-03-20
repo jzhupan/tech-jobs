@@ -73,7 +73,7 @@
     "global_500": true,
     "remote_friendly": true,
     "ats": "Workday",
-    "talent_pool_url": false,
+    "talent_pool_url": "",
     "careers_url": "https://www.abbott.com/careers.html",
     "early_career_url": "https://www.jobs.abbott/us/en/early-careers",
     "female_ceo": false,
